@@ -1,0 +1,7 @@
+{
+  "job_id": "mveh1vys-yuexng",
+  "intent": "sayHello",
+  "lang": "en",
+  "summary": "Hello",
+  "model": "Qwen-1.5B-GGUF"
+}
